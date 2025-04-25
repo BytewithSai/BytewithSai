@@ -25,9 +25,8 @@
 <p align="left">
 <a href="https://twitter.com/ayushdama07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushdama07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saiprakashreddy-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sai Prakash Reddy" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ayushdama070804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ayushdama070804" height="30" width="40" /></a>
 <a href="https://instagram.com/ayushdama0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushdama0" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayush070804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush070804" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/saiprakashr25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sai Prakash Reddy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
